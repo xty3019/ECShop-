@@ -1,0 +1,5 @@
+G:\6.Ecshop_提供学员\ECShop\Model\bin\Release\Model.dll
+G:\6.Ecshop_提供学员\ECShop\Model\bin\Release\Model.pdb
+G:\6.Ecshop_提供学员\ECShop\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+G:\6.Ecshop_提供学员\ECShop\Model\obj\Release\Model.dll
+G:\6.Ecshop_提供学员\ECShop\Model\obj\Release\Model.pdb

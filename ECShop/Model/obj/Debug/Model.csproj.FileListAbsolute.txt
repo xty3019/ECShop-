@@ -1,0 +1,9 @@
+G:\6.Ecshop_提供学员\ECShop\Model\bin\Debug\Model.dll
+G:\6.Ecshop_提供学员\ECShop\Model\bin\Debug\Model.pdb
+G:\6.Ecshop_提供学员\ECShop\Model\obj\Debug\Model.dll
+G:\6.Ecshop_提供学员\ECShop\Model\obj\Debug\Model.pdb
+G:\实训复习作业\6.Ecshop_提供学员\ECShop\Model\bin\Debug\Model.dll
+G:\实训复习作业\6.Ecshop_提供学员\ECShop\Model\bin\Debug\Model.pdb
+G:\实训复习作业\6.Ecshop_提供学员\ECShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\实训复习作业\6.Ecshop_提供学员\ECShop\Model\obj\Debug\Model.dll
+G:\实训复习作业\6.Ecshop_提供学员\ECShop\Model\obj\Debug\Model.pdb

@@ -1,0 +1,9 @@
+G:\6.Ecshop_提供学员\ECShop\BLL\bin\Release\BLL.dll
+G:\6.Ecshop_提供学员\ECShop\BLL\bin\Release\BLL.pdb
+G:\6.Ecshop_提供学员\ECShop\BLL\bin\Release\DAL.dll
+G:\6.Ecshop_提供学员\ECShop\BLL\bin\Release\Model.dll
+G:\6.Ecshop_提供学员\ECShop\BLL\bin\Release\DAL.pdb
+G:\6.Ecshop_提供学员\ECShop\BLL\bin\Release\Model.pdb
+G:\6.Ecshop_提供学员\ECShop\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+G:\6.Ecshop_提供学员\ECShop\BLL\obj\Release\BLL.dll
+G:\6.Ecshop_提供学员\ECShop\BLL\obj\Release\BLL.pdb

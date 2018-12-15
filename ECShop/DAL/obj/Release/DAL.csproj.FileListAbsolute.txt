@@ -1,0 +1,7 @@
+G:\6.Ecshop_提供学员\ECShop\DAL\bin\Release\DAL.dll
+G:\6.Ecshop_提供学员\ECShop\DAL\bin\Release\DAL.pdb
+G:\6.Ecshop_提供学员\ECShop\DAL\bin\Release\Model.dll
+G:\6.Ecshop_提供学员\ECShop\DAL\bin\Release\Model.pdb
+G:\6.Ecshop_提供学员\ECShop\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+G:\6.Ecshop_提供学员\ECShop\DAL\obj\Release\DAL.dll
+G:\6.Ecshop_提供学员\ECShop\DAL\obj\Release\DAL.pdb
